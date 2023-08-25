@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "vLV82BDAo/7vzqmf/0TYIhXiC28N6tIjkQQoHy+d/uM=",
+  "Source": "Presentation.PL",
+  "BasePath": "_content/Presentation.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Presentation.PL\\wwwroot",
+      "Source": "Presentation.PL",
+      "ContentRoot": "C:\\Users\\Filip\\Desktop\\vucina\\cofi\\Presentation.PL\\wwwroot\\",
+      "BasePath": "_content/Presentation.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Filip\\Desktop\\vucina\\cofi\\Presentation.PL\\wwwroot\\Images\\329cceae-0517-47ca-8a29-4d63f77bcd7d.png",
+      "SourceId": "Presentation.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Filip\\Desktop\\vucina\\cofi\\Presentation.PL\\wwwroot\\",
+      "BasePath": "_content/Presentation.PL",
+      "RelativePath": "Images/329cceae-0517-47ca-8a29-4d63f77bcd7d.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\329cceae-0517-47ca-8a29-4d63f77bcd7d.png"
+    },
+    {
+      "Identity": "C:\\Users\\Filip\\Desktop\\vucina\\cofi\\Presentation.PL\\wwwroot\\Images\\e8a4f866-df67-472b-8cfc-e52fd01a1fb1.png",
+      "SourceId": "Presentation.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Filip\\Desktop\\vucina\\cofi\\Presentation.PL\\wwwroot\\",
+      "BasePath": "_content/Presentation.PL",
+      "RelativePath": "Images/e8a4f866-df67-472b-8cfc-e52fd01a1fb1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\e8a4f866-df67-472b-8cfc-e52fd01a1fb1.png"
+    }
+  ]
+}

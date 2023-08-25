@@ -1,0 +1,146 @@
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Presentation.PL.exe
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Presentation.PL.deps.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Presentation.PL.runtimeconfig.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Presentation.PL.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Presentation.PL.pdb
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\DataAccess.DAL.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Domain.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\DataAccess.DAL.pdb
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Domain.pdb
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.AssemblyReference.cache
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.AssemblyInfoInputs.cache
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.AssemblyInfo.cs
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.CoreCompileInputs.cache
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\scopedcss\bundle\Presentation.PL.styles.css
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.CopyComplete
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\refint\Presentation.PL.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.pdb
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\Presentation.PL.genruntimeconfig.cache
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\obj\Debug\net6.0\ref\Presentation.PL.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Application.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Implementation.dll
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Application.pdb
+C:\Users\Zdravkovic PC\source\repos\DataAccess\Presentation.PL\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.AssemblyInfo.cs
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\refint\Presentation.PL.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.exe
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.deps.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.runtimeconfig.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Application.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\DataAccess.DAL.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Domain.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Implementation.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Application.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\DataAccess.DAL.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Domain.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets\msbuild.Presentation.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Presentation.PL.props
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.PL.props
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Presentation.PL.props
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\scopedcss\bundle\Presentation.PL.styles.css
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.csproj.CopyComplete
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.genruntimeconfig.cache
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\ref\Presentation.PL.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\obj\Debug\net6.0\Presentation.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Filip\Desktop\vucina\cofi\Presentation.PL\bin\Debug\net6.0\Presentation.PL.staticwebassets.runtime.json
